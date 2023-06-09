@@ -73,117 +73,117 @@
   },
   {
     "id": 12,
-    "class": "Grape___Black_rot",
-    "name": "Grape Black rot",
-    "solutions": ["Mancozeb","Ziram"]
-  },
-  {
-    "id": 13,
     "class": "Grape___Esca_(Black_Measles)",
     "name": "Grape(Esca) Black Measles",
     "solutions": ["Lime sulfur","sanitation"]
   },
   {
-    "id": 14,
+    "id": 13,
     "class": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
-    "name": "Grape Leaf Blight (Isariopsis Leaf Spot)",
+    "name": "Grape Leaf Blight(Isariopsis Leaf Spot)",
+    "solutions": ["Mancozeb","Ziram"]
+  },
+  {
+    "id": 14,
+    "class": "Grape___healthy",
+    "name": "Grape Healthy",
     "solutions": [ "Manncozeb","Ziram"]
   },
   {
     "id": 15,
-    "class": "Grape___healthy",
-    "name": "Grape Healthy",
-    "solutions": [ "Not needed"]
-  },
-  {
-    "id": 16,
     "class": "Orange___Haunglongbing_(Citrus_greening)",
     "name": "Orange Huanglongbing (Citrus Greening)",
     "solutions": [ "No Cure"]
   },
   {
-    "id": 17,
+    "id": 16,
     "class": "Peach___Bacterial_spot",
     "name": "Peach Bacterial Spot",
     "solutions": [ "Copper", "oxytetracycline (Mycoshield and generic equivalents)","syllit+captan" ]
   },
   {
-    "id": 18,
+    "id": 17,
     "class": "Peach___healthy",
     "name": "Peach Healthy",
     "solutions": [ "Not needed"]
   },
   {
-    "id": 19,
+    "id": 18,
     "class": "Pepper,_bell___Bacterial_spot",
     "name": "Pepper Bell Bacterial Spot",
     "solutions": [ "No Cure" ]
   },
   {
-    "id": 20,
+    "id": 19,
     "class": "Pepper,_bell___healthy",
     "name": "Pepper Bell Healthy",
     "solutions": [ "Not needed"]
   },
   {
-    "id": 21,
+    "id": 20,
     "class": "Potato___Early_blight",
     "name": "Potato Early Blight",
     "solutions": ["Crop rotation","Bonide Liquid Copper Fungicide"]
   },
   {
-    "id": 22,
+    "id": 21,
     "class": "Potato___Late_blight",
     "name": "Potato Late Blight",
-    "solutions": ["eliminating cull piles and volunteer potatoes","Dithane (mancozeb) MZ","Tattoo C","Acrobat MZ"]
+    "solutions": ["Eliminating cull piles and volunteer potatoes","Dithane (mancozeb) MZ","Tattoo C","Acrobat MZ"]
   },
   {
-    "id": 23,
+    "id": 22,
     "class": "Potato___healthy",
     "name": "Potato Healthy",
     "solutions": ["Not needed"]
   },
   {
-    "id": 24,
+    "id": 23,
     "class": "Raspberry___healthy",
     "name": "Raspberry Healthy",
     "solutions": ["Not needed"]
   },
   {
-    "id": 25,
+    "id": 24,
     "class": "Soybean___healthy",
     "name": "Soybean Healthy",
     "solutions": ["Not needed"]
   },
   {
-    "id": 26,
+    "id": 25,
     "class": "Squash___Powdery_mildew",
     "name": "Squash Powdery Mildew",
     "solutions": ["Sulfur Oil", "Stylet oil","Potassium bicarbonate"]
   },
   {
-    "id": 27,
+    "id": 26,
     "class": "Strawberry___Leaf_scorch",
     "name": "Strawberry Leaf Scorch",
     "solutions": ["Proper Garden Sanitation","Avoidance of Waterlogged soil"]
   },
   {
-    "id": 28,
+    "id": 27,
     "class": "Strawberry___healthy",
     "name": "Strawberry Healthy",
     "solutions": ["Not needed"]
   },
   {
-    "id": 29,
+    "id": 28,
     "class": "Tomato___Bacterial_spot",
     "name": "Tomato Bacterial Spot",
     "solutions": ["No Cure"]
   },
   {
-    "id": 30,
+    "id": 29,
     "class": "Tomato___Early_blight",
     "name": "Tomato Early Blight",
     "solutions": ["Bonide Liquid Copper Fungicide","chlorothalonil"]
+  },
+  {
+    "id": 30,
+    "class": "Tomato___Late_blight",
+    "name": "Tomato Late Blight",
+    "solutions": ["Spraying Copper-based fungicide","chlorothalonil", "Crop Rotation"]
   },
   {
     "id": 31,

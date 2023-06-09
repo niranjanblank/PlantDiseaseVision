@@ -4,7 +4,7 @@ import torchvision.transforms as transforms
 import torch
 import pickle
 import json
-
+from models import PlantDiseaseDetector
 # getting the json data containing info about classes
 # Read the JSON data from the file
 file_path = "info.json"
@@ -22,8 +22,10 @@ def search_by_id(id_value, data):
 
 # setting device
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
-# instantize the model
-plant_model = torch.load('trained_models/model_full.pth',  map_location=device)
+# instantiate the model
+plant_model = PlantDiseaseDetector(38)
+# plant_model = torch.load('trained_models/model_full.pth',  map_location=device)
+plant_model.load_state_dict(torch.load('trained_models/plant_model_v3.pth'))
 plant_model.to(device)
 # Define the transformation
 # Creating image transformers
@@ -49,6 +51,7 @@ if upload is not None:
     batch_t = torch.unsqueeze(img_t,0)
     batch_t = batch_t.to(device)
     # get the model prediction
+    plant_model.eval()
     with torch.inference_mode():
         out = plant_model(batch_t)
 
