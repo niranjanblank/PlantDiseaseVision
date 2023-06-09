@@ -8,7 +8,7 @@ class PlantDiseaseDetector(nn.Module):
     """
     def __init__(self, num_classes):
         super().__init__()
-        weights = models.ResNet50_Weights
+        weights = models.ResNet50_Weights.DEFAULT
         self.model = models.resnet50(weights=weights)
         # for freezing the resnet model
         for param in self.model.parameters():
