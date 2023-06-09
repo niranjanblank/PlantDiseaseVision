@@ -3,8 +3,24 @@ from PIL import Image
 import torchvision.transforms as transforms
 import torch
 import pickle
-from models import PlantDiseaseDetector
+import json
 
+# getting the json data containing info about classes
+# Read the JSON data from the file
+file_path = "info.json"
+with open(file_path, "r") as file:
+    json_data = json.load(file)
+
+
+# function to search by id
+def search_by_id(id_value, data):
+    for item in data:
+        if item["id"] == id_value:
+            return item
+    return None
+
+
+# setting device
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 # instantize the model
 plant_model = torch.load('trained_models/model_full.pth',  map_location=device)
@@ -34,7 +50,8 @@ if upload is not None:
     # get the model prediction
     with torch.inference_mode():
         out = plant_model(batch_t)
-    print(out)
-    _, predicted = torch.max(out.data, 1)
 
-    st.write("Predicted Class: ",loaded_classes[predicted.item()])
+    _, predicted = torch.max(out.data, 1)
+    ## the infromation related to the predicted class is retrieved
+    predicted_class = search_by_id(predicted.item(), json_data)
+    st.write("Predicted Class: ",predicted_class)
