@@ -1,0 +1,232 @@
+[
+  {
+    "id": 0,
+    "class": "Apple___Apple_scab",
+    "name": "Apple Scab",
+    "solutions": ["captan","lime-sulfur","powdered or wettable sulfur"]
+  },
+  {
+    "id": 1,
+    "class": "Apple___Black_rot",
+    "name": "Apple Black rot",
+    "solutions": ["Captan", "sulfur products"]
+  },
+  {
+    "id": 2,
+    "class": "Apple___Cedar_apple_rust",
+    "name": "Apple Cedar Apple Rust",
+    "solutions": ["myclobutanil (Immunox)"]
+  },
+  {
+    "id": 3,
+    "class": "Apple___healthy",
+    "name": "Apple Healthy",
+    "solutions": ["Not Needed"]
+  },
+  {
+    "id": 4,
+    "class": "Blueberry___healthy",
+    "name": "Blueberry Healthy",
+    "solutions": ["Not Needed"]
+  },
+  {
+    "id": 5,
+    "class": "Cherry_(including_sour)___Powdery_mildew",
+    "name": "Cherry(including sour) Powdery Mildew",
+    "solutions": ["sulfur","copper-based products","chlorothalonil"]
+  },
+  {
+    "id": 6,
+    "class": "Cherry_(including_sour)___healthy",
+    "name": "Cherry(including sour) Healthy",
+    "solutions": ["Not needed"]
+  },
+  {
+    "id": 7,
+    "class": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "name": "Corn(maize) Cercospora Leaf Spot - Gray Leaf Spot",
+    "solutions": ["Crop rotation","Tillage","Foliar Fungicides"]
+  },
+  {
+    "id": 8,
+    "class": "Corn_(maize)___Common_rust_",
+    "name": "Corn(maize) Common Rust",
+    "solutions": ["Mancozeb","myclobutanil"]
+  },
+  {
+    "id": 9,
+    "class": "Corn_(maize)___Northern_Leaf_Blight",
+    "name": "Corn(maize) Northern Leaf Blight",
+    "solutions": ["Mancozeb","myclobutanil"]
+  },
+  {
+    "id": 10,
+    "class": "Corn_(maize)___healthy",
+    "name": "Corn(maize) Healthy",
+    "solutions": ["Not needed"]
+  },
+  {
+    "id": 11,
+    "class": "Grape___Black_rot",
+    "name": "Grape Black rot",
+    "solutions": ["Mancozeb","Ziram"]
+  },
+  {
+    "id": 12,
+    "class": "Grape___Black_rot",
+    "name": "Grape Black rot",
+    "solutions": ["Mancozeb","Ziram"]
+  },
+  {
+    "id": 13,
+    "class": "Grape___Esca_(Black_Measles)",
+    "name": "Grape(Esca) Black Measles",
+    "solutions": ["Lime sulfur","sanitation"]
+  },
+  {
+    "id": 14,
+    "class": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+    "name": "Grape Leaf Blight (Isariopsis Leaf Spot)",
+    "solutions": [ "Manncozeb","Ziram"]
+  },
+  {
+    "id": 15,
+    "class": "Grape___healthy",
+    "name": "Grape Healthy",
+    "solutions": [ "Not needed"]
+  },
+  {
+    "id": 16,
+    "class": "Orange___Haunglongbing_(Citrus_greening)",
+    "name": "Orange Huanglongbing (Citrus Greening)",
+    "solutions": [ "No Cure"]
+  },
+  {
+    "id": 17,
+    "class": "Peach___Bacterial_spot",
+    "name": "Peach Bacterial Spot",
+    "solutions": [ "Copper", "oxytetracycline (Mycoshield and generic equivalents)","syllit+captan" ]
+  },
+  {
+    "id": 18,
+    "class": "Peach___healthy",
+    "name": "Peach Healthy",
+    "solutions": [ "Not needed"]
+  },
+  {
+    "id": 19,
+    "class": "Pepper,_bell___Bacterial_spot",
+    "name": "Pepper Bell Bacterial Spot",
+    "solutions": [ "No Cure" ]
+  },
+  {
+    "id": 20,
+    "class": "Pepper,_bell___healthy",
+    "name": "Pepper Bell Healthy",
+    "solutions": [ "Not needed"]
+  },
+  {
+    "id": 21,
+    "class": "Potato___Early_blight",
+    "name": "Potato Early Blight",
+    "solutions": ["Crop rotation","Bonide Liquid Copper Fungicide"]
+  },
+  {
+    "id": 22,
+    "class": "Potato___Late_blight",
+    "name": "Potato Late Blight",
+    "solutions": ["eliminating cull piles and volunteer potatoes","Dithane (mancozeb) MZ","Tattoo C","Acrobat MZ"]
+  },
+  {
+    "id": 23,
+    "class": "Potato___healthy",
+    "name": "Potato Healthy",
+    "solutions": ["Not needed"]
+  },
+  {
+    "id": 24,
+    "class": "Raspberry___healthy",
+    "name": "Raspberry Healthy",
+    "solutions": ["Not needed"]
+  },
+  {
+    "id": 25,
+    "class": "Soybean___healthy",
+    "name": "Soybean Healthy",
+    "solutions": ["Not needed"]
+  },
+  {
+    "id": 26,
+    "class": "Squash___Powdery_mildew",
+    "name": "Squash Powdery Mildew",
+    "solutions": ["Sulfur Oil", "Stylet oil","Potassium bicarbonate"]
+  },
+  {
+    "id": 27,
+    "class": "Strawberry___Leaf_scorch",
+    "name": "Strawberry Leaf Scorch",
+    "solutions": ["Proper Garden Sanitation","Avoidance of Waterlogged soil"]
+  },
+  {
+    "id": 28,
+    "class": "Strawberry___healthy",
+    "name": "Strawberry Healthy",
+    "solutions": ["Not needed"]
+  },
+  {
+    "id": 29,
+    "class": "Tomato___Bacterial_spot",
+    "name": "Tomato Bacterial Spot",
+    "solutions": ["No Cure"]
+  },
+  {
+    "id": 30,
+    "class": "Tomato___Early_blight",
+    "name": "Tomato Early Blight",
+    "solutions": ["Bonide Liquid Copper Fungicide","chlorothalonil"]
+  },
+  {
+    "id": 31,
+    "class": "Tomato___Leaf_Mold",
+    "name": "Tomato Leaf Mold",
+    "solutions": ["Calcium chloride-based sprays"]
+  },
+  {
+    "id": 32,
+    "class": "Tomato___Septoria_leaf_spot",
+    "name": "Tomato Septoria Leaf Spot",
+    "solutions": ["maneb", "mancozeb", "chlorothalonil","benomyl"]
+  },
+  {
+    "id": 33,
+    "class": "Tomato___Spider_mites Two-spotted_spider_mite",
+    "name": "Tomato Spider Mites (Two Spotted Spider Mite)",
+    "solutions": ["bifenazate (Acramite)","abamectin (Agri-Mek)","spirotetramat (Movento)"]
+  },
+  {
+    "id": 34,
+    "class": "Tomato___Target_Spot",
+    "name": "Tomato Target Spot",
+    "solutions": ["chlorothalonil","copper oxychloride","mancozeb"]
+  },
+  {
+    "id": 35,
+    "class": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "name": "Tomato Yellow Leaf Curl Virus",
+    "solutions": ["dinotefuran (Venom)","imidacloprid (AdmirePro, Alias, Nuprid, Widow, and others)","thiamethoxam (Platinum)"]
+  },
+  {
+    "id": 36,
+    "class": "Tomato___Tomato_mosaic_virus",
+    "name": "Tomato Mosaic Virus",
+    "solutions": ["No Cure"]
+  },
+  {
+    "id": 37,
+    "class": "Tomato___healthy",
+    "name": "Tomato Healthy",
+    "solutions": ["Not Needed"]
+  },
+
+
+]

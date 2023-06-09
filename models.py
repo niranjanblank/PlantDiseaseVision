@@ -1,4 +1,4 @@
-import torch
+eimport torch
 from torchvision import datasets, models, transforms
 from torch import nn, optim
 

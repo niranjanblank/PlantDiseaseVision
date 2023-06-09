@@ -1,0 +1,113 @@
+{
+  "Apple___Apple_scab" : ["captan","lime-sulfur","powdered or wettable sulfur"
+
+  ],
+  "Apple___Black_rot": ["Captan", "sulfur products"
+
+  ],
+  "Apple___Cedar_apple_rust": ["myclobutanil (Immunox)"
+
+  ],
+  "Apple___healthy": ["Not needed"
+
+  ],
+  "Blueberry___healthy": ["Not needed"
+
+  ],
+  "Cherry_(including_sour)___Powdery_mildew": [
+"sulfur","copper-based products","chlorothalonil"
+  ],
+  "Cherry_(including_sour)___healthy": [
+"Not needed"
+  ],
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": [
+"Crop rotation","Tillage","Foliar Fungicides"
+  ],
+  "Corn_(maize)___Common_rust_": [
+"Mancozeb","myclobutanil"
+  ],
+  "Corn_(maize)___Northern_Leaf_Blight": [
+"Foliar Fungicides","Stratego® YLD"
+  ],
+  "Corn_(maize)___healthy": [
+"Not needed"
+  ],
+  "Grape___Black_rot": [
+"Mancozeb","Ziram"
+  ],
+  "Grape___Esca_(Black_Measles)": [
+"Lime sulfur","sanitation"
+  ],
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": [
+    "Manncozeb","Ziram"
+  ],
+  "Grape___healthy": [
+"Not Needed"
+  ],
+  "Orange___Haunglongbing_(Citrus_greening)": [
+"No Cure"
+  ],
+  "Peach___Bacterial_spot": [
+"Copper", "oxytetracycline (Mycoshield and generic equivalents)","syllit+captan"
+  ],
+  "Peach___healthy": [
+"Not Needed"
+  ],
+  "Pepper,_bell___Bacterial_spot": [
+"No Cure"
+  ],
+  "Pepper,_bell___healthy": [
+"Not Needed"
+  ],
+  "Potato___Early_blight": [
+"Crop rotation","Bonide Liquid Copper Fungicide"
+  ],
+  "Potato___Late_blight": [
+"eliminating cull piles and volunteer potatoes","Dithane (mancozeb) MZ","Tattoo C","Acrobat MZ"
+  ],
+  "Potato___healthy": [
+  "Not Needed"
+  ],
+  "Raspberry___healthy": [
+  "Not needed"
+  ],
+  "Soybean___healthy": [
+  "Not needed"
+  ],
+  "Squash___Powdery_mildew": [
+ "Sulfur Oil", "Stylet oil","Potassium bicarbonate"
+  ],
+  "Strawberry___Leaf_scorch": [
+    "Proper Garden Sanitation","Avoidance of Waterlogged soil"
+  ],
+  "Strawberry___healthy": [
+"Not Needed"
+  ],
+  "Tomato___Bacterial_spot": [
+"No Cure"
+  ],
+  "Tomato___Early_blight": [
+"Bonide Liquid Copper Fungicide","chlorothalonil"
+  ],
+  "Tomato___Leaf_Mold": [
+"Calcium chloride-based sprays"
+  ],
+  "Tomato___Septoria_leaf_spot": [
+  "maneb", "mancozeb", "chlorothalonil","benomyl"
+  ],
+  "Tomato___Spider_mites Two-spotted_spider_mite": [
+"bifenazate (Acramite)","abamectin (Agri-Mek)","spirotetramat (Movento)"
+  ],
+  "Tomato___Target_Spot": [
+"chlorothalonil","copper oxychloride","mancozeb"
+  ],
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": [
+"dinotefuran (Venom)","imidacloprid (AdmirePro, Alias, Nuprid, Widow, and others)","thiamethoxam (Platinum)"
+  ],
+  "Tomato___Tomato_mosaic_virus": [
+"No Cure"
+  ],
+  "Tomato___healthy": [
+"Not Needed"
+  ]
+}
